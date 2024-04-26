@@ -3,5 +3,6 @@
 [https://github.com/Gopichand14052004/BATCH_5_AIML/blob/main/Assignment3.ipynb]
 [https://github.com/Gopichand14052004/BATCH_5_AIML/blob/main/Assignment_4.ipynb]
 [https://github.com/Gopichand14052004/BATCH_5_AIML/blob/main/Assignment_5.ipynb]
+[https://github.com/Gopichand14052004/BATCH_5_AIML/blob/main/Assignment_06.ipynb]
 [https://github.com/Gopichand14052004/BATCH_5_AIML/blob/main/Asiignment_7.ipynb]
 [https://github.com/Gopichand14052004/BATCH_5_AIML/blob/main/ASSIGNMENT_8.ipynb]
